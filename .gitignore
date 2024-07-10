@@ -1,6 +1,8 @@
 # Ignore all zip files
-*.zip
+.zip
 
 .ipynb_checkpoints
 
 .DS_Store
+
+.txt
