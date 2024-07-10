@@ -1,8 +1,8 @@
 # Ignore all zip files
 *.zip
 
+# Ignore Jupyter Notebook version file
 .ipynb_checkpoints
 
+# Ignore .Ds_Store file
 .DS_Store
-
-*.txt
